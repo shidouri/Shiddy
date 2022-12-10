@@ -1,12 +1,13 @@
 <---->
-
 csc_clientfields
+csc_functions
 csc_precaching
 csc_premain
 csc_postmain
 csc_using
 
 gsc_clientfields
+gsc_functions
 gsc_precaching
 gsc_premain
 gsc_postmain
@@ -16,5 +17,4 @@ sound_alias
 
 zone_includes
 zone_source
-
 <---->
